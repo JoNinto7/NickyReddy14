@@ -1,4 +1,5 @@
 Hello👋 
+
 I'm Joseph Nikhil
 =========================================
 
@@ -18,7 +19,7 @@ Education is just one part of knowledge. I've always wanted to be something more
                                 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
                                 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
                                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                    </p>
+
                     
                   ### Socials
                   
@@ -31,7 +32,7 @@ Education is just one part of knowledge. I've always wanted to be something more
                           
                       <a href="https://www.linkedin.com/in/mjosephnikhil/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/NickyReddy14"><img src="https://github-readme-stats.vercel.app/api?username=NickyReddy14&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="NickyReddy14's GitHub stats" /></a><a href="https://github.com/NickyReddy14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickyReddy14&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</p>
 <!--
 **NickyReddy14/NickyReddy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
