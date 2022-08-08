@@ -54,7 +54,7 @@ I've learnt several skills such as Creative Design, Marketing, Database Manageme
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/NickyReddy14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickyreddy14&show_icons=true&locale=en&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickyreddy14&show_icons=true&locale=en&layout=compact&bg_color=1c1917" alt="nickyreddy14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickyreddy14&show_icons=true&locale=en" alt="nickyreddy14" /></p>
 
