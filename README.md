@@ -6,15 +6,15 @@ I'm Joseph Nikhil
 Web Developer and Fiction Writer
 --------------------------------
 
-Former Lead of DSS VJIT & Teknoholix VJIT.
+Former Lead of DSS VJIT and Teknoholix VJIT.
 
 Education is just one part of knowledge. I've always wanted to be something more and do something better. I'm a student and a part-time fiction and creative writer. I'm good with my English and Quantitative Skills. I'm motivated by the quote, "A jack of all trades is a master of none, but oftentimes better than a master of one." It keeps me inspired to learn more.
 
-I'm good at managing roles. I've been selected as the Co-Lead for Teknoholix club in the first year of my Engineering, after which I've been the Lead of the Developers Student Society. It is a club started in association with Google Developers Group, Hyderabad. 
+I'm good at managing roles. I've been selected as the Co-Lead for Teknoholix club in the first year of my Engineering, after which I've been the Lead of the Developers Student Society. It is a club started in association with Google Developers Group, Hyderabad.
 
-Under Teknoholix, I co-led a community of nearly 120 students in my first year, which heavily improved my Leadership Qualities. As a Lead of DSS, I'm leading a community of over 350 students. I've furthermore conducted several events for these clubs. 
+Under Teknoholix, I co-led a community of nearly 120 students in my first year, which heavily improved my Leadership Qualities. As a Lead of DSS, I've led a community of over 350 students. I've furthermore conducted several events for these clubs.
 
-I've learnt MERN Stack Development, which catalyzed my actions in starting a project in my early 3rd Year. I'm highly interested in recent trends in advancing technologies. 
+I've learnt MERN Stack Development, which catalyzed my actions in starting a project in my early 3rd Year. I'm highly interested in recent trends in advancing technologies.
 
 I've learnt several skills such as Creative Design, Marketing, Database Management and Ethical Hacking. At times, I tend to have a little fun by playing video games.
 
